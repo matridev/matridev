@@ -5,34 +5,34 @@
 
 <p align="center"><strong>¿Me acompañas en esta aventura?😊<br /> <br /> ¡Revisa mi contenido 👇 y hagamos crecer esta comunidad 💻!</p>
 <p align="center" style='margin-right:4px'>
-   <a href="https://twitch.tv/matridev" target="blank" >
+   <a href="https://twitch.tv/matridev" target="_blank" >
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="matridev" height="28px" width="28px" />
   </a>
-   <a href="https://youtube.com/matridev" target="blank">
+   <a href="https://youtube.com/matridev" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="matridev" height="28px" width="28px" />
   </a>
-  <a href="https://discord.gg/5Jt8B4DkHh" target="blank">
+  <a href="https://discord.gg/5Jt8B4DkHh" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="matridev" height="28px" width="28px"/>
   </a>
-  <a href="https://instagram.com/matridev_" target="blank">
+  <a href="https://instagram.com/matridev_" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="matridev_" height="28px" width="28px" />
   </a>
-  <a href="https://twitter.com/matridev_" target="blank">
+  <a href="https://twitter.com/matridev_" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="matridev_" height="28px" width="28px" />
   </a>
 </p>
 
 <p align="center" style='margin-right:4px'>
-  <a href="https://www.youtube.com/channel/UC3jLXUuNoN7-cyJZmTeAr3w" target="blank" >
+  <a href="https://www.youtube.com/channel/UC3jLXUuNoN7-cyJZmTeAr3w" target="_blank" >
     <img align="center" src="https://img.shields.io/youtube/channel/subscribers/UC3jLXUuNoN7-cyJZmTeAr3w?style=social" alt="matridev" />
   </a>
-  <a href="https://twitch.com/matridev" target="blank" >
+  <a href="https://twitch.com/matridev" target="_blank" >
     <img align="center" src="https://img.shields.io/twitch/status/matridev?style=social" alt="matridev" />
   </a>
-  <a href="https://discord.gg/5Jt8B4DkHh" target="blank">
+  <a href="https://discord.gg/5Jt8B4DkHh" target="_blank">
     <img align="center" src="https://img.shields.io/discord/1047114024371892305?style=social&label=Discord&logo=discord" alt="matridev" />
   </a>
-  <a href="https://twitter.com/matridev_" target="blank" >
+  <a href="https://twitter.com/matridev_" target="_blank" >
     <img align="center" src="https://img.shields.io/twitter/follow/matridev_?style=social" alt="matridev_" />
   </a>
   <a>
